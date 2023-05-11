@@ -1,6 +1,6 @@
 # Covid19 management system for HMO
 
-Server
+###Server
 
 Developed with PyCharm 2022.3.1.
 
@@ -19,10 +19,12 @@ SQLite3: SQLite3 is a self-contained, serverless database engine. It is usually 
 1.2 Get Flask
 
 Open a command prompt or terminal and use the following command to install Flask using pip:
+
+```sh
 pip install flask
+```
 
-
-Client
+###Client
 
 Visual Studio Code 2023.
 
@@ -40,17 +42,25 @@ Install Node.js: Vue.js requires Node.js, which includes the npm package manager
 
 Open a command prompt or terminal and run the following command to install the Vue CLI globally.
 
+```sh
 npm install -g @vue/cli
+```
+
 
 2.2 Get Ionic
 
 Install Node.js: Ionic requires Node.js and npm  to be installed on your system. You can download and install Node.js from the official website: https://nodejs.org
 
 Install Ionic CLI: Once Node.js is installed, you can install the Ionic CLI globally on your system. Open a command prompt or terminal and run the following command:
+```sh
 npm install -g @ionic/cli
+```
+
 
 To run the client open the terminal and run the command:
+```sh
 npm run dev
+```
 
  
          
