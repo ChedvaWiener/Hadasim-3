@@ -52,12 +52,14 @@ npm install -g @vue/cli
 Install Node.js: Ionic requires Node.js and npm  to be installed on your system. You can download and install Node.js from the official website: https://nodejs.org
 
 Install Ionic CLI: Once Node.js is installed, you can install the Ionic CLI globally on your system. Open a command prompt or terminal and run the following command:
+
 ```sh
 npm install -g @ionic/cli
 ```
 
 
 To run the client open the terminal and run the command:
+
 ```sh
 npm run dev
 ```
