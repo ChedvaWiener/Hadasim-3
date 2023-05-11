@@ -1,6 +1,6 @@
 # Covid19 management system for HMO
 
-##Server
+## Server
 
 Developed with PyCharm 2022.3.1.
 
@@ -24,7 +24,7 @@ Open a command prompt or terminal and use the following command to install Flask
 pip install flask
 ```
 
-##Client
+## Client
 
 Visual Studio Code 2023.
 
